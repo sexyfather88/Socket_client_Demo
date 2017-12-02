@@ -14,6 +14,7 @@
 		CEDF83D01FD191000027E1D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDF83CE1FD191000027E1D4 /* LaunchScreen.storyboard */; };
 		CEDF83DB1FD191000027E1D4 /* Socket_client_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDF83DA1FD191000027E1D4 /* Socket_client_DemoTests.swift */; };
 		CEDF83E61FD191000027E1D4 /* Socket_client_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDF83E51FD191000027E1D4 /* Socket_client_DemoUITests.swift */; };
+		CEDF83F41FD19A500027E1D4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEDF83F31FD19A500027E1D4 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CEDF83E11FD191000027E1D4 /* Socket_client_DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Socket_client_DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDF83E51FD191000027E1D4 /* Socket_client_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket_client_DemoUITests.swift; sourceTree = "<group>"; };
 		CEDF83E71FD191000027E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEDF83F31FD19A500027E1D4 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				CEDF83C51FD191000027E1D4 /* AppDelegate.swift */,
 				CEDF83C71FD191000027E1D4 /* ViewController.swift */,
+				CEDF83F31FD19A500027E1D4 /* ViewController.xib */,
 				CEDF83C91FD191000027E1D4 /* Main.storyboard */,
 				CEDF83CC1FD191000027E1D4 /* Assets.xcassets */,
 				CEDF83CE1FD191000027E1D4 /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				CEDF83D01FD191000027E1D4 /* LaunchScreen.storyboard in Resources */,
 				CEDF83CD1FD191000027E1D4 /* Assets.xcassets in Resources */,
+				CEDF83F41FD19A500027E1D4 /* ViewController.xib in Resources */,
 				CEDF83CB1FD191000027E1D4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
